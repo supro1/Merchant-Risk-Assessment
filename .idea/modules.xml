@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Merchant Risk Assessment.iml" filepath="$PROJECT_DIR$/.idea/Merchant Risk Assessment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/WaferFaultDetection.iml" filepath="$PROJECT_DIR$/.idea/WaferFaultDetection.iml" />
     </modules>
   </component>
 </project>
